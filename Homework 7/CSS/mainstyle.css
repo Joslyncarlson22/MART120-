@@ -1,0 +1,34 @@
+
+body {
+  Background-color: white;
+  Background-image: url('../images/wine.jpg');
+  Background-blend-mode: luminosity;
+}
+
+.content{
+  font-family:Impact,Arial,Times, Serif;
+  font-size: 14px;
+  color:black;
+}
+
+.title
+{
+  font-family: Impact, Arial, Times, Serif;
+  font-size: 28px
+  color:Pink
+}
+
+#home{
+  color:white;
+}
+
+#contact{
+  color:grey;
+}
+
+a{
+  text-decoration: none;
+  font-size: 14px;
+  font-family: Arial, Times, Serif;
+  font-weight: 700;
+}
