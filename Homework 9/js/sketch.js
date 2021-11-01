@@ -7,7 +7,7 @@ function draw()
 {
     background(51);
     textSize(22)
-    text("Ayo!", 10,80);
+    text("Check out my sketch", 10,80);
 
     // head
     fill(255, 204, 0);
@@ -15,7 +15,7 @@ function draw()
 
     // eyes
     strokeWeight(10);
-    fill(0);
+    fill(#0778F9);
     point(200,75);
     point(285,75);
 
@@ -29,7 +29,7 @@ function draw()
     line(130,175,175,50);
     line(325,50,360,175);
     // body
-    fill(10, 24, 120);
+    fill(#D826E7);
     rect(200,185,100,150);
 
     // decoration
